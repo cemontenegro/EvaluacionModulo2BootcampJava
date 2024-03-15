@@ -1,0 +1,11 @@
+
+main{
+    background-color: #eeebf4;
+}
+.nav-link, h1{
+    color: #8a59e4;
+}
+.nav-link.active, button {
+    color: #fdfbfb !important; /* Cambiar el color del texto */
+    background-color: #8a59e4 !important; /* Cambiar el color de fondo */
+}

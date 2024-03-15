@@ -1,0 +1,10 @@
+main{
+    background-color: #eeebf4;
+}
+
+.nav-link, h1{
+    color: #8a59e4;
+}
+.nav-link.active, button {
+    background-color: #8a59e4 !important; /* Cambiar el color de fondo */
+}
